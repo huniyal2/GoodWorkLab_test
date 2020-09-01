@@ -1,0 +1,9 @@
+Method    Route		URL						Response
+
+GET	  /		http://localhost:4009/  	 	Input Form to submit modulename and screenname
+
+GET	/get_meta_data	 http://localhost:4009/get_meta_data	Will fetch modulename & screenname from query params, then diaplay the json data from file path based on user input form values
+
+Any other Route will give Incorrect Route response.
+
+

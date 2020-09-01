@@ -1,0 +1,25 @@
+{
+  "name": "goodworklab_test",
+  "version": "1.0.0",
+  "description": "GoodWorkLab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huniyal2/GoodWorkLab_test.git"
+  },
+  "author": "Himanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huniyal2/GoodWorkLab_test/issues"
+  },
+  "homepage": "https://github.com/huniyal2/GoodWorkLab_test#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
